@@ -38,13 +38,13 @@ public final class Constants {
     public static final HashMap<String, LatLng> BAY_AREA_LANDMARKS = new HashMap<String, LatLng>();
     static {
         // San Francisco International Airport.
-        BAY_AREA_LANDMARKS.put("HOME", new LatLng(23.759918, 90.361865));
+        BAY_AREA_LANDMARKS.put("HOME", new LatLng(23.759934, 90.361551));
 
         // Googleplex.
-        BAY_AREA_LANDMARKS.put("Varsity", new LatLng(23.780305,90.407240));
+        BAY_AREA_LANDMARKS.put("Varsity", new LatLng(23.780271, 90.407261));
 
         // Test
-        BAY_AREA_LANDMARKS.put("PMO", new LatLng(23.768274,90.391457));
+        BAY_AREA_LANDMARKS.put("BijoySarani", new LatLng(23.764637,90.389186));
     }
 
 }
